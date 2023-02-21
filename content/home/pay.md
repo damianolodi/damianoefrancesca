@@ -14,11 +14,11 @@ sections:
       columns: '2'
 ---
 
-## In Agenzia
+## **In Agenzia**
 
 Direttamente in **MAG TRAVEL** (Via Matteotti 76, Reggiolo (RE)) con le principali forme di pagamento (contanti, assegno, bancomat, carta di credito).
 
-## Tramite Bonifico
+## **Tramite Bonifico**
 
 Coordinate Bancarie:
 
