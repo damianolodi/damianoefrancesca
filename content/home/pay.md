@@ -23,6 +23,6 @@ Direttamente in **MAG TRAVEL** (Via Matteotti 76, Reggiolo (RE)) con le principa
 Coordinate Bancarie:
 
 - Francesca Pavarini
-- Intesa San Paolo
+- Banca: Intesa Sanpaolo
 - IBAN: IT15B0306957670100000001185
 
